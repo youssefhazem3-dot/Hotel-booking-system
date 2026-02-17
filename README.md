@@ -54,6 +54,8 @@ Book: Select check-in date and duration for your stay; the system prevents booki
 
 Pay: Use the Pay Balance option before your check-in date to avoid being blocked.
 
+---
+
 ##🎯 Learning Objectives
 Implementing complex conditional logic for user status, such as distinguishing between Blocked and Active accounts.
 
@@ -62,6 +64,8 @@ Managing relational-style data using Python dictionaries and lists.
 Automating date-based triggers, specifically for automatic cancellations and fine applications.
 
 Creating a secure Admin/User permission system.
+
+---
 
 ##👤 Author/s
 Yousef Hazem, Shehabeldeen Yousef
