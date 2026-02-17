@@ -37,7 +37,7 @@ N.N project code/
 ├── hotel_managment_system.py  # Main script containing all system logic
 └── README.md                  # Project documentation
 ```
-# ▶️ Usage
+## ▶️ Usage
 ### **Admin Access**
 To access the admin dashboard, use the following default credentials:
 
