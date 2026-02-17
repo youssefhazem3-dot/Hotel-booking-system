@@ -38,14 +38,14 @@ N.N project code/
 └── README.md                  # Project documentation
 ```
 ## ▶️ Usage
-* **Admin Access
+* Admin Access
 To access the admin dashboard, use the following default credentials:
 
 Username: admin
 
 Password: Admin@123
 
-* **Customer Workflow
+* Customer Workflow
 Sign Up: Create a new account to begin using the system.
 
 Search: Find available rooms by type (e.g., "suite").
