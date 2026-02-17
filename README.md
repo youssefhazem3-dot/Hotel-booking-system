@@ -67,8 +67,8 @@ Creating a secure Admin/User permission system.
 
 ---
 
-## 👤 Author/s
-Yousef Hazem, Shehabeldeen Yousef
+## 👤 Author
+Yousef Hazem
 
 ---
 
