@@ -56,7 +56,7 @@ Pay: Use the Pay Balance option before your check-in date to avoid being blocked
 
 ---
 
-##🎯 Learning Objectives
+## 🎯 Learning Objectives
 Implementing complex conditional logic for user status, such as distinguishing between Blocked and Active accounts.
 
 Managing relational-style data using Python dictionaries and lists.
@@ -67,10 +67,10 @@ Creating a secure Admin/User permission system.
 
 ---
 
-##👤 Author/s
+## 👤 Author/s
 Yousef Hazem, Shehabeldeen Yousef
 
 ---
 
-##📄 License
+## 📄 License
 This project is intended for educational purposes.
