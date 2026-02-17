@@ -70,5 +70,7 @@ Creating a secure Admin/User permission system.
 ##👤 Author/s
 Yousef Hazem, Shehabeldeen Yousef
 
+---
+
 ##📄 License
 This project is intended for educational purposes.
